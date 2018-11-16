@@ -15,4 +15,3 @@ HashMap不支持并发操作。底层是一个数组。在JDK1.7前，数组每�
 * capacity：当前数组容量，始终保持 2^n，可以扩容，扩容后数组大小为当前的 2 倍。
 * loadFactor：负载因子，默认为 0.75。
 * threshold：扩容的阈值，等于 capacity \* loadFactor。
-
