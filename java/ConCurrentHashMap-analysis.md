@@ -2,7 +2,7 @@
 
 这一段可以看下[《为并发而生的 ConcurrentHashMap（Java 8）》](https://www.cnblogs.com/yangming1996/p/8031199.html)。
 
-## A2：
+## A：
 
 ConcurrentHashMap支持并发。
 

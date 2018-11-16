@@ -2,7 +2,7 @@
 
 需要看解析就读这篇原作[《Java7/8 中的 HashMap 和 ConcurrentHashMap 全解析》](https://javadoop.com/post/hashmap)。
 
-## A1：
+## A：
 
 HashMap不支持并发操作。底层是一个数组。在JDK1.7前，数组每个元素是一个单向链表；1.8中，当链表的元素达到8个时，会将链表转换成红黑树；查找的时间复杂度从原先的_O\(n\)_降低到_O\(logN\)_。
 
