@@ -3,5 +3,6 @@
 * [Introduction](README.md)
 * Java
   * 集合
-    * [HashMap和ConcurrentHashMap](java/hashmap-concurrenthashmap-analysis-in-java7and8.md)
+    * [HashMap](java/HashMap-analysis.md)
+    * [ConcurrentHashMap](java/ConCurrentHashMap-analysis.md)
 
