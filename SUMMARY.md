@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * Java
   * 集合
-    * [HashMap](java/HashMap-analysis.md)
-    * [ConcurrentHashMap](java/ConcurrentHashMap-analysis.md)
+    * [HashMap](java/HashMap.md)
+    * [ConcurrentHashMap](java/ConcurrentHashMap.md)
 
