@@ -19,3 +19,7 @@
 * 数据库
 * 网络
 * 操作系统
+* 软件工程
+  * 设计模式
+    * [设计模式分类](sse/design-pattern/groups.md)
+    * [单例模式](sse/design-pattern/Singleton.md)
